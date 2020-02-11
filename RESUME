@@ -1,0 +1,41 @@
+<html>
+	<head>
+		<title> RESUME </TITLE>
+<img src="/home/Sem6B10/Downloads/nature.jpeg" alt="test img" align="right" height="120" width="100" />
+	</HEAD>
+	<BODY style="background-color:yellow">
+		
+	<H2>SOHAN K SHENDGE</H2>
+	<a href="sohan@gmail.com" target="gmail"> sohan@gmail.com</a>
+	<p align="left"><u><b>+91-1234567890<b></u><p>
+	<hr>
+	<h3>CV Highlights</h3>
+	<ul>
+	<li>Currently going through CS235</li>
+	<li>Completed certification in "Big Data Analytics"</li>
+	<li>Key Negotiator in lucrative deals</li>
+	</ul>
+	<hr>
+	
+	<h3>Professional Experience</h3>
+	<ul>
+	<li>Wingify Software Solutions</li>
+	<p> Job Responsibilities</p>
+		<ul type="square">
+		<li> Answer Customer queries over email/ticketing systems</li>
+		<li> Interact with engineering team for quick resolution </li>
+		<li> Manage the project within the budget saving the organization </li>
+		</ul>
+
+	<li>Delloitte Inc</li>
+	<p> Job Responsibilities</p>
+		<ul type="square">
+			<li> Answer Customer queries WhatsApp</li>
+			<li>Handle finances</li>
+	</ul>
+	<table>
+	<table border="1">
+	<tr>
+	<th>
+	
+	
