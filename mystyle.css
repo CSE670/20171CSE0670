@@ -1,18 +1,32 @@
 
+
 	body{
-              background-image:url("/home/Sem6B10/Downloads/index1.jpg");
+              background-image:url("/home/Sem6B10/Downloads/index3.jpg");
 		background-repeat:repeat;
-		background-attachment:fixed;}
+		background-attachment:fixed;
+		}
 		
 		
 
-		h1{color:blue; margin-left:40px; }
+		h1{color:white; margin-left:40px;font-size:80;font-style:serif; }
+	
+		p.norm{color:black;margin-left:60px;text-align:left;text-decoration:underline;text-transform:uppercase;text-shadow:4px 4px 8px yellow; font-size:30px;}
+		 
+		p.fn{color:yellow;font-style:italic;text-decoration:overline;text-shadow:6px 4px 8px white;}
+
+		p.normal
+		{color:purple; font-size:40px;
+		font-style:serif;letter-spacing:5px;text-align:left;text-decoration:overline;text-transform:capitalize;text-shadow:10px 8px 8px white;
+		}
+
+		
+		p.special{color:red;font-style:italic;font-size:60px; word-spacing:5px;text-align:right;text-decoration:line-through;text-transform:lowercase;text-shadow:10px 12px 12px white;}
+
+		p{color:blue;font-weight:bolder;text-indent:1cm;text-align:center; word-spacing:20px;}
+
+		img:hover{border:10px solid red;height:600px;width:300px;opacity:0.4;filter:alpha(opacity=40);}
 			
 			
 		 
-
-		p{color:purple; font-size:20;}
-	   
-			
 			
 		 
