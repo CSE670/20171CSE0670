@@ -1,5 +1,4 @@
 
-
 	body{
               background-image:url("/home/Sem6B10/Downloads/index3.jpg");
 		background-repeat:repeat;
@@ -24,7 +23,46 @@
 
 		p{color:blue;font-weight:bolder;text-indent:1cm;text-align:center; word-spacing:20px;}
 
-		img:hover{border:10px solid red;height:600px;width:300px;opacity:0.4;filter:alpha(opacity=40);}
+		#id1{color:white;}
+		.mycolor{property:solid}
+
+		img:hover{border:10px solid red;height:300px;width:300px;opacity:0.4;filter:alpha(opacity=40);}
+
+		p.one{
+		border-style:dotted;
+		border-width:6px;
+		color:red;
+		}
+		
+		p.two{
+		border-style:solid;
+		border-width:medium;
+		}
+
+		p.three{
+		border-style:dotted;
+		border-width:6px 10px 40px 22px;
+		}
+
+		p{
+		border-top-style:dotted;
+		border-right-style:solid;
+		border-bottom-style:dotted;
+		border-left-style:solid;
+		}
+		
+		p{margin:25px 50px 75px 100px;}
+
+		div{
+		width:300px;
+		margin:auto;
+		border:1px solid red;
+		}
+
+		
+
+
+		
 			
 			
 		 
