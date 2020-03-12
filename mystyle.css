@@ -9,6 +9,7 @@
 
 		h1{color:white; margin-left:40px;font-size:80;font-style:serif; }
 	
+	
 		p.norm{color:black;margin-left:60px;text-align:left;text-decoration:underline;text-transform:uppercase;text-shadow:4px 4px 8px yellow; font-size:30px;}
 		 
 		p.fn{color:yellow;font-style:italic;text-decoration:overline;text-shadow:6px 4px 8px white;}
@@ -44,14 +45,9 @@
 		border-width:6px 10px 40px 22px;
 		}
 
-		p{
-		border-top-style:dotted;
-		border-right-style:solid;
-		border-bottom-style:dotted;
-		border-left-style:solid;
-		}
+	
 		
-		p{margin:25px 50px 75px 100px;}
+	
 
 		div{
 		width:300px;
@@ -59,6 +55,41 @@
 		border:1px solid red;
 		}
 
+		
+
+		p.name{margin:2cm; padding:5px;border:2px dashed green ;}
+
+		li{display:inline:}
+
+		span.b{display:inline-block;width:100px;height:100px;padding:5px;border:1px solid blue;background-color:yellow;}
+
+		span.a{display:inline;width:100px;height:100px;padding:5px;border:1px solid blue;background-color:yellow;}
+		span.c{display:block;width:100px;height:100px;padding:5px;border:1px solid blue;background-color:yellow;}
+
+		
+		a#er{color:yellow;font-style:underline;}
+		a#er::visited{color:purple;}
+
+		a#min{color:green;}
+		
+
+		a#we{color:white;background-color:red;}
+
+		a#me{border-style:solid;border-width:3px;border-color:green;}
+		a#me::hover{color:red;}
+
+		selector::pseudo-element{
+						color:##ff0000;
+						font-variant:small-caps;}
+
+		
+
+		::selection{color:red;background-color:yellow;}
+
+		
+			
+			
+		 
 		
 
 
